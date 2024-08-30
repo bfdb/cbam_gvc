@@ -1,0 +1,201 @@
+	Aluminium	Cement	Electricity	Fertilizer	Iron and steel	Agriculture	Mining	Other manufacturing	Construction	Services	ACEFIS	nonACEFIS
+Paddy rice	0	0	0	0	0	1	0	0	0	0	0	1
+Wheat	0	0	0	0	0	1	0	0	0	0	0	1
+Cereal grains nec	0	0	0	0	0	1	0	0	0	0	0	1
+Vegetables, fruit, nuts	0	0	0	0	0	1	0	0	0	0	0	1
+Oil seeds	0	0	0	0	0	1	0	0	0	0	0	1
+Sugar cane, sugar beet	0	0	0	0	0	1	0	0	0	0	0	1
+Plant-based fibers	0	0	0	0	0	1	0	0	0	0	0	1
+Crops nec	0	0	0	0	0	1	0	0	0	0	0	1
+Cattle	0	0	0	0	0	1	0	0	0	0	0	1
+Pigs	0	0	0	0	0	1	0	0	0	0	0	1
+Poultry	0	0	0	0	0	1	0	0	0	0	0	1
+Meat animals nec	0	0	0	0	0	1	0	0	0	0	0	1
+Animal products nec	0	0	0	0	0	1	0	0	0	0	0	1
+Raw milk	0	0	0	0	0	1	0	0	0	0	0	1
+Wool, silk-worm cocoons	0	0	0	0	0	1	0	0	0	0	0	1
+Manure (conventional treatment)	0	0	0	0	0	1	0	0	0	0	0	1
+Manure (biogas treatment)	0	0	0	0	0	1	0	0	0	0	0	1
+Products of forestry, logging and related services (02)	0	0	0	0	0	1	0	0	0	0	0	1
+Fish and other fishing products; services incidental of fishing (05)	0	0	0	0	0	1	0	0	0	0	0	1
+Anthracite	0	0	0	0	0	0	1	0	0	0	0	1
+Coking Coal	0	0	0	0	0	0	1	0	0	0	0	1
+Other Bituminous Coal	0	0	0	0	0	0	1	0	0	0	0	1
+Sub-Bituminous Coal	0	0	0	0	0	0	1	0	0	0	0	1
+Patent Fuel	0	0	0	0	0	0	1	0	0	0	0	1
+Lignite/Brown Coal	0	0	0	0	0	0	1	0	0	0	0	1
+BKB/Peat Briquettes	0	0	0	0	0	0	1	0	0	0	0	1
+Peat	0	0	0	0	0	0	1	0	0	0	0	1
+Crude petroleum and services related to crude oil extraction, excluding surveying	0	0	0	0	0	0	1	0	0	0	0	1
+Natural gas and services related to natural gas extraction, excluding surveying	0	0	0	0	0	0	1	0	0	0	0	1
+Natural Gas Liquids	0	0	0	0	0	0	1	0	0	0	0	1
+Other Hydrocarbons	0	0	0	0	0	0	1	0	0	0	0	1
+Uranium and thorium ores (12)	0	0	0	0	0	0	1	0	0	0	0	1
+Iron ores	0	0	0	0	0	0	1	0	0	0	0	1
+Copper ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Nickel ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Aluminium ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Precious metal ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Lead, zinc and tin ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Other non-ferrous metal ores and concentrates	0	0	0	0	0	0	1	0	0	0	0	1
+Stone	0	0	0	0	0	0	1	0	0	0	0	1
+Sand and clay	0	0	0	0	0	0	1	0	0	0	0	1
+Chemical and fertilizer minerals, salt and other mining and quarrying products n.e.c.	0	0	0	0	0	0	1	0	0	0	0	1
+Products of meat cattle	0	0	0	0	0	0	0	1	0	0	0	1
+Products of meat pigs	0	0	0	0	0	0	0	1	0	0	0	1
+Products of meat poultry	0	0	0	0	0	0	0	1	0	0	0	1
+Meat products nec	0	0	0	0	0	0	0	1	0	0	0	1
+products of Vegetable oils and fats	0	0	0	0	0	0	0	1	0	0	0	1
+Dairy products	0	0	0	0	0	0	0	1	0	0	0	1
+Processed rice	0	0	0	0	0	0	0	1	0	0	0	1
+Sugar	0	0	0	0	0	0	0	1	0	0	0	1
+Food products nec	0	0	0	0	0	0	0	1	0	0	0	1
+Beverages	0	0	0	0	0	0	0	1	0	0	0	1
+Fish products	0	0	0	0	0	0	0	1	0	0	0	1
+Tobacco products (16)	0	0	0	0	0	0	0	1	0	0	0	1
+Textiles (17)	0	0	0	0	0	0	0	1	0	0	0	1
+Wearing apparel; furs (18)	0	0	0	0	0	0	0	1	0	0	0	1
+Leather and leather products (19)	0	0	0	0	0	0	0	1	0	0	0	1
+Wood and products of wood and cork (except furniture); articles of straw and plaiting materials (20)	0	0	0	0	0	0	0	1	0	0	0	1
+Wood material for treatment, Re-processing of secondary wood material into new wood material	0	0	0	0	0	0	0	1	0	0	0	1
+Pulp	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary paper for treatment, Re-processing of secondary paper into new pulp	0	0	0	0	0	0	0	1	0	0	0	1
+Paper and paper products	0	0	0	0	0	0	0	1	0	0	0	1
+Printed matter and recorded media (22)	0	0	0	0	0	0	0	1	0	0	0	1
+Coke Oven Coke	0	0	0	0	0	0	0	1	0	0	0	1
+Gas Coke	0	0	0	0	0	0	0	1	0	0	0	1
+Coal Tar	0	0	0	0	0	0	0	1	0	0	0	1
+Motor Gasoline	0	0	0	0	0	0	0	1	0	0	0	1
+Aviation Gasoline	0	0	0	0	0	0	0	1	0	0	0	1
+Gasoline Type Jet Fuel	0	0	0	0	0	0	0	1	0	0	0	1
+Kerosene Type Jet Fuel	0	0	0	0	0	0	0	1	0	0	0	1
+Kerosene	0	0	0	0	0	0	0	1	0	0	0	1
+Gas/Diesel Oil	0	0	0	0	0	0	0	1	0	0	0	1
+Heavy Fuel Oil	0	0	0	0	0	0	0	1	0	0	0	1
+Refinery Gas	0	0	0	0	0	0	0	1	0	0	0	1
+Liquefied Petroleum Gases (LPG)	0	0	0	0	0	0	0	1	0	0	0	1
+Refinery Feedstocks	0	0	0	0	0	0	0	1	0	0	0	1
+Ethane	0	0	0	0	0	0	0	1	0	0	0	1
+Naphtha	0	0	0	0	0	0	0	1	0	0	0	1
+White Spirit & SBP	0	0	0	0	0	0	0	1	0	0	0	1
+Lubricants	0	0	0	0	0	0	0	1	0	0	0	1
+Bitumen	0	0	0	0	0	0	0	1	0	0	0	1
+Paraffin Waxes	0	0	0	0	0	0	0	1	0	0	0	1
+Petroleum Coke	0	0	0	0	0	0	0	1	0	0	0	1
+Non-specified Petroleum Products	0	0	0	0	0	0	0	1	0	0	0	1
+Nuclear fuel	0	0	0	0	0	0	0	1	0	0	0	1
+Plastics, basic	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary plastic for treatment, Re-processing of secondary plastic into new plastic	0	0	0	0	0	0	0	1	0	0	0	1
+N-fertiliser	0	0	0	1	0	0	0	0	0	0	1	0
+P- and other fertiliser	0	0	0	1	0	0	0	0	0	0	1	0
+Chemicals nec	0	0	0	0	0	0	0	1	0	0	0	1
+Charcoal	0	0	0	0	0	0	0	1	0	0	0	1
+Additives/Blending Components	0	0	0	0	0	0	0	1	0	0	0	1
+Biogasoline	0	0	0	0	0	0	0	1	0	0	0	1
+Biodiesels	0	0	0	0	0	0	0	1	0	0	0	1
+Other Liquid Biofuels	0	0	0	0	0	0	0	1	0	0	0	1
+Rubber and plastic products (25)	0	0	0	0	0	0	0	1	0	0	0	1
+Glass and glass products	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary glass for treatment, Re-processing of secondary glass into new glass	0	0	0	0	0	0	0	1	0	0	0	1
+Ceramic goods	0	0	0	0	0	0	0	1	0	0	0	1
+Bricks, tiles and construction products, in baked clay	0	0	0	0	0	0	0	1	0	0	0	1
+Cement, lime and plaster	0	1	0	0	0	0	0	0	0	0	1	0
+Ash for treatment, Re-processing of ash into clinker	0	0	0	0	0	0	0	1	0	0	0	1
+Other non-metallic mineral products	0	0	0	0	0	0	0	1	0	0	0	1
+Basic iron and steel and of ferro-alloys and first products thereof	0	0	0	0	1	0	0	0	0	0	1	0
+Secondary steel for treatment, Re-processing of secondary steel into new steel	0	0	0	0	0	0	0	1	0	0	0	1
+Precious metals	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary preciuos metals for treatment, Re-processing of secondary preciuos metals into new preciuos metals	0	0	0	0	0	0	0	1	0	0	0	1
+Aluminium and aluminium products	1	0	0	0	0	0	0	0	0	0	1	0
+Secondary aluminium for treatment, Re-processing of secondary aluminium into new aluminium	0	0	0	0	0	0	0	1	0	0	0	1
+Lead, zinc and tin and products thereof	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary lead for treatment, Re-processing of secondary lead into new lead	0	0	0	0	0	0	0	1	0	0	0	1
+Copper products	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary copper for treatment, Re-processing of secondary copper into new copper	0	0	0	0	0	0	0	1	0	0	0	1
+Other non-ferrous metal products	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary other non-ferrous metals for treatment, Re-processing of secondary other non-ferrous metals into new other non-ferrous metals	0	0	0	0	0	0	0	1	0	0	0	1
+Foundry work services	0	0	0	0	0	0	0	1	0	0	0	1
+Fabricated metal products, except machinery and equipment (28)	0	0	0	0	0	0	0	1	0	0	0	1
+Machinery and equipment n.e.c. (29)	0	0	0	0	0	0	0	1	0	0	0	1
+Office machinery and computers (30)	0	0	0	0	0	0	0	1	0	0	0	1
+Electrical machinery and apparatus n.e.c. (31)	0	0	0	0	0	0	0	1	0	0	0	1
+Radio, television and communication equipment and apparatus (32)	0	0	0	0	0	0	0	1	0	0	0	1
+Medical, precision and optical instruments, watches and clocks (33)	0	0	0	0	0	0	0	1	0	0	0	1
+Motor vehicles, trailers and semi-trailers (34)	0	0	0	0	0	0	0	1	0	0	0	1
+Other transport equipment (35)	0	0	0	0	0	0	0	1	0	0	0	1
+Furniture; other manufactured goods n.e.c. (36)	0	0	0	0	0	0	0	1	0	0	0	1
+Secondary raw materials	0	0	0	0	0	0	0	1	0	0	0	1
+Bottles for treatment, Recycling of bottles by direct reuse	0	0	0	0	0	0	0	1	0	0	0	1
+Electricity by coal	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by gas	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by nuclear	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by hydro	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by wind	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by petroleum and other oil derivatives	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by biomass and waste	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by solar photovoltaic	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by solar thermal	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by tide, wave, ocean	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity by Geothermal	0	0	1	0	0	0	0	0	0	0	1	0
+Electricity nec	0	0	1	0	0	0	0	0	0	0	1	0
+Transmission services of electricity	0	0	0	0	0	0	0	1	0	0	0	1
+Distribution and trade services of electricity	0	0	0	0	0	0	0	1	0	0	0	1
+Coke oven gas	0	0	0	0	0	0	0	1	0	0	0	1
+Blast Furnace Gas	0	0	0	0	0	0	0	1	0	0	0	1
+Oxygen Steel Furnace Gas	0	0	0	0	0	0	0	1	0	0	0	1
+Gas Works Gas	0	0	0	0	0	0	0	1	0	0	0	1
+Biogas	0	0	0	0	0	0	0	1	0	0	0	1
+Distribution services of gaseous fuels through mains	0	0	0	0	0	0	0	1	0	0	0	1
+Steam and hot water supply services	0	0	0	0	0	0	0	1	0	0	0	1
+Collected and purified water, distribution services of water (41)	0	0	0	0	0	0	0	1	0	0	0	1
+Construction work (45)	0	0	0	0	0	0	0	0	1	0	0	1
+Secondary construction material for treatment, Re-processing of secondary construction material into aggregates	0	0	0	0	0	0	0	1	0	0	0	1
+Sale, maintenance, repair of motor vehicles, motor vehicles parts, motorcycles, motor cycles parts and accessoiries	0	0	0	0	0	0	0	0	0	1	0	1
+Retail trade services of motor fuel	0	0	0	0	0	0	0	0	0	1	0	1
+Wholesale trade and commission trade services, except of motor vehicles and motorcycles (51)	0	0	0	0	0	0	0	0	0	1	0	1
+Retail  trade services, except of motor vehicles and motorcycles; repair services of personal and household goods (52)	0	0	0	0	0	0	0	0	0	1	0	1
+Hotel and restaurant services (55)	0	0	0	0	0	0	0	0	0	1	0	1
+Railway transportation services	0	0	0	0	0	0	0	0	0	1	0	1
+Other land transportation services	0	0	0	0	0	0	0	0	0	1	0	1
+Transportation services via pipelines	0	0	0	0	0	0	0	0	0	1	0	1
+Sea and coastal water transportation services	0	0	0	0	0	0	0	0	0	1	0	1
+Inland water transportation services	0	0	0	0	0	0	0	0	0	1	0	1
+Air transport services (62)	0	0	0	0	0	0	0	0	0	1	0	1
+Supporting and auxiliary transport services; travel agency services (63)	0	0	0	0	0	0	0	0	0	1	0	1
+Post and telecommunication services (64)	0	0	0	0	0	0	0	0	0	1	0	1
+Financial intermediation services, except insurance and pension funding services (65)	0	0	0	0	0	0	0	0	0	1	0	1
+Insurance and pension funding services, except compulsory social security services (66)	0	0	0	0	0	0	0	0	0	1	0	1
+Services auxiliary to financial intermediation (67)	0	0	0	0	0	0	0	0	0	1	0	1
+Real estate services (70)	0	0	0	0	0	0	0	0	0	1	0	1
+Renting services of machinery and equipment without operator and of personal and household goods (71)	0	0	0	0	0	0	0	0	0	1	0	1
+Computer and related services (72)	0	0	0	0	0	0	0	0	0	1	0	1
+Research and development services (73)	0	0	0	0	0	0	0	0	0	1	0	1
+Other business services (74)	0	0	0	0	0	0	0	0	0	1	0	1
+Public administration and defence services; compulsory social security services (75)	0	0	0	0	0	0	0	0	0	1	0	1
+Education services (80)	0	0	0	0	0	0	0	0	0	1	0	1
+Health and social work services (85)	0	0	0	0	0	0	0	0	0	1	0	1
+Food waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Paper waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Plastic waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Intert/metal waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Textiles waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Wood waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Oil/hazardous waste for treatment: incineration	0	0	0	0	0	0	0	1	0	0	0	1
+Food waste for treatment: biogasification and land application	0	0	0	0	0	0	0	1	0	0	0	1
+Paper waste for treatment: biogasification and land application	0	0	0	0	0	0	0	1	0	0	0	1
+Sewage sludge for treatment: biogasification and land application	0	0	0	0	0	0	0	1	0	0	0	1
+Food waste for treatment: composting and land application	0	0	0	0	0	0	0	1	0	0	0	1
+Paper and wood waste for treatment: composting and land application	0	0	0	0	0	0	0	1	0	0	0	1
+Food waste for treatment: waste water treatment	0	0	0	0	0	0	0	1	0	0	0	1
+Other waste for treatment: waste water treatment	0	0	0	0	0	0	0	1	0	0	0	1
+Food waste for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Paper for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Plastic waste for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Inert/metal/hazardous waste for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Textiles waste for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Wood waste for treatment: landfill	0	0	0	0	0	0	0	1	0	0	0	1
+Membership organisation services n.e.c. (91)	0	0	0	0	0	0	0	0	0	1	0	1
+Recreational, cultural and sporting services (92)	0	0	0	0	0	0	0	0	0	1	0	1
+Other services (93)	0	0	0	0	0	0	0	0	0	1	0	1
+Private households with employed persons (95)	0	0	0	0	0	0	0	0	0	1	0	1
+Extra-territorial organizations and bodies	0	0	0	0	0	0	0	0	0	1	0	1

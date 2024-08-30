@@ -1,0 +1,23 @@
+	GWP100
+CO2 - combustion - air	1
+CO2 - non combustion - Cement production - air	1
+CO2 - non combustion - Lime production - air	1
+CO2 - agriculture - peat decay - air	1
+CO2 - waste - biogenic - air	1
+CO2 - waste - fossil - air	1
+CH4 - combustion - air	0
+CH4 - non combustion - Extraction/production of (natural) gas - air	0
+CH4 - non combustion - Extraction/production of crude oil - air	0
+CH4 - non combustion - Mining of antracite - air	0
+CH4 - non combustion - Mining of bituminous coal - air	0
+CH4 - non combustion - Mining of coking coal - air	0
+CH4 - non combustion - Mining of lignite (brown coal) - air	0
+CH4 - non combustion - Mining of sub-bituminous coal - air	0
+CH4 - non combustion - Oil refinery - air	0
+CH4 - agriculture - air	0
+CH4 - waste - air	0
+N2O - combustion - air	0
+N2O - agriculture - air	0
+SF6 - air	0
+HFC - air	0
+PFC - air	0

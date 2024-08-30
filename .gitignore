@@ -52,3 +52,7 @@ MANIFEST
 .venv*/
 .conda*/
 .python-version
+
+# EXIOBASE files
+input/IOT_2019_pxp
+*.pkl

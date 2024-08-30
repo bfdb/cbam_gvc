@@ -1,0 +1,23 @@
+GHG
+CO2 - combustion - air
+CO2 - non combustion - Cement production - air
+CO2 - non combustion - Lime production - air
+CO2 - agriculture - peat decay - air
+CO2 - waste - biogenic - air
+CO2 - waste - fossil - air
+CH4 - combustion - air
+CH4 - non combustion - Extraction/production of (natural) gas - air
+CH4 - non combustion - Extraction/production of crude oil - air
+CH4 - non combustion - Mining of antracite - air
+CH4 - non combustion - Mining of bituminous coal - air
+CH4 - non combustion - Mining of coking coal - air
+CH4 - non combustion - Mining of lignite (brown coal) - air
+CH4 - non combustion - Mining of sub-bituminous coal - air
+CH4 - non combustion - Oil refinery - air
+CH4 - agriculture - air
+CH4 - waste - air
+N2O - combustion - air
+N2O - agriculture - air
+SF6 - air
+HFC - air
+PFC - air
